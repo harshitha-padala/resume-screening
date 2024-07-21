@@ -17,29 +17,6 @@ Scikit-learn: For machine learning models and TF-IDF vectorization.
 NLTK: For text preprocessing, including tokenization and stopwords removal.
 Pickle: For saving and loading machine learning models and vectorizers.
 Regex: For text cleaning and preprocessing.
-Installation
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/resume-screening.git
-cd resume-screening
-Create and Activate a Virtual Environment (recommended):
-
-bash
-Copy code
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-Install Dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-Run the Streamlit App:
-
-bash
-Copy code
-streamlit run app.py
 Usage
 Navigate to the web app in your browser.
 Upload a resume file (txt or pdf).
